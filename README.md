@@ -5,6 +5,8 @@ Some techniques I used to deal with large scale machine learning problems.
 
 ## 1. KD Trees implementation for KNN
 
+![largest components](./images/largest_components.PNG)
+
 ## 2. Model blending (xgboost) in Avazu-CTR-prediction-contest
 
 https://www.kaggle.com/c/avazu-ctr-prediction/overview  
