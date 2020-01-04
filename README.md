@@ -1,5 +1,5 @@
 # Large scale Machine Learning techniques
-Some techniques I used to deal with large scale machine learning problems.
+Compilation of practical works using techniques to deal with large scale machine learning problems.
 
 ---
 
