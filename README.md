@@ -15,3 +15,6 @@ Compilation of practical works using techniques to deal with large scale machine
 
 >https://www.kaggle.com/c/avazu-ctr-prediction/overview  
 >In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction >systems are essential and widely used for sponsored search and real-time bidding. The goal is to build and test prediction models on 11 >days of Avazu data.
+
+## 4. [Sketching and MiniHash](./sketching/lab_sketching.ipynb)
+*Assignment for Thomas Bonald's course at Telecom Paris*
